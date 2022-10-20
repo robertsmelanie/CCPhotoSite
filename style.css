@@ -35,5 +35,6 @@ img{
     margin: 1.25%;
     /* 1.25 * 2 * 4 = 10 */
     float: center;
+    vertical-align: middle;
     /* float is the CSS property places an element on the left or right side of its container/parents allowing text and inline element to wrap around it. The element is removed from the normal document flow. Also, removes the "mystery space" between image elements (Note this mystery space is the actual spaces between img elements in an html file */
 }

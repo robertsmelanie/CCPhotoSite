@@ -26,12 +26,13 @@ p{
 }
 
 img{
-    /* width: 20.5%; */
-    max-width: 20.5%;
+    width: 20.5%; 
+    height: 350px;
+    /*max-width: 20.5%;
     min-width: 20.5%;
-    /* 22.5 * 4 = 90 */
+    /* 22.5 * 4 = 90 
     max-height: 20.5%;
-    min-height: 250px;
+    min-height: 250px;*/
     margin: 1.25%;
     /* 1.25 * 2 * 4 = 10 */
     float: center;
